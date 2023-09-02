@@ -7,3 +7,7 @@ Key takeaways include:
   1) no-shows as a % of bookings increased exponentially during the summer months  
   2) no-shows cost just over £6,000 at their height in May  
   3) weekend, multi-night, and multi-room bookings are more likely to be no-shows
+
+<br/>
+
+The notebook can be found [here.](SJ_no_show_analysis.ipynb)
